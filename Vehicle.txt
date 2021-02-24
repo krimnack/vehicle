@@ -2,6 +2,7 @@ class Vehicle{
 	
 	int wheels;
 	int number;
+
 }
 
 class Car{
@@ -9,3 +10,13 @@ class Car{
 	int wheels = 4;
 	int number = 5485;
 }
+
+	
+}
+
+class Bike{
+
+	int wheels = 2;
+	int number = 8645;
+}
+
