@@ -2,4 +2,12 @@ class Vehicle{
 	
 	int wheels;
 	int number;
+	
 }
+
+class Bike{
+
+	int wheels = 2;
+	int number = 8645;
+}
+
