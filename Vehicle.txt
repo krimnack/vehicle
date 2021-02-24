@@ -20,3 +20,9 @@ class Bike{
 	int number = 8645;
 }
 
+class Auto {
+
+	int wheels = 3;
+	int number = 8562;
+}
+
