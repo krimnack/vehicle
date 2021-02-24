@@ -8,6 +8,6 @@ class Vehicle{
 class Bike{
 
 	int wheels = 2;
-	int number = 8645;
+	int number = 8647;
 }
 
